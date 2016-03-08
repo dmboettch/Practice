@@ -1,3 +1,12 @@
 Created a new folder
 
 Going to try to push it to GitHub
+
+Had difficulties with the first push.
+
+Follow these steps:
+1   Update project
+        Merge Using Stash
+2   Commit Changes
+        Don't forget commit message
+3   Push
